@@ -7,4 +7,4 @@ Project on Databases system DSIT - Sprng Semexter 2021
 4. Mount your drive to colab
 5. Give to the input field the file path
 6. Algorithm will rearrange the data acordignly
-Data are grouped and Order with Relational Logic
+7. Data are grouped and Ordered with Relational Logic
